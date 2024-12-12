@@ -196,7 +196,6 @@ button {
 
     .vegetables-item {
         width: calc((100% - 24px) / 2);
-        /*height: calc((100% - 72px * 2) / 3); */
     }
 
 }
